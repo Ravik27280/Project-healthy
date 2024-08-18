@@ -1,4 +1,4 @@
-/* .parallax-bg {
+.parallax-bg {
     position: relative;
     height: 100vh;
     background: url('https://images.pexels.com/photos/128403/pexels-photo-128403.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat center center fixed;
@@ -10,4 +10,4 @@
     position: relative;
     z-index: 1;
   }
-   */
+  
